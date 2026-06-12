@@ -8,9 +8,7 @@
     "#29 Diamond, Harold G.",
     "#30 Wolke, Dieter",
     "#39 Birke Heeren",
-    "#42 Hildebrand, Adolf",
     "#43 Christopher Pompetzki",
-    "#45 Hooley, C.",
     "#56 Cesar Ivens Barreto Carvalho",
     "#74 Griff gurwell",
     "#76 Andrea Corazza"
@@ -18,8 +16,8 @@
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 88,
-      "drawn_count": 88,
+      "stated_count": 90,
+      "drawn_count": 90,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
@@ -57,7 +55,9 @@
         "Sárközy, A.",
         "Fouvry, E.",
         "Zhengchun Zhou",
+        "Hildebrand, Adolf",
         "Cai, Yingchun",
+        "Hooley, C.",
         "Hanwang Zhang",
         "Andrey Chmora",
         "Marek Wolf",
@@ -114,8 +114,8 @@
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 33,
-      "drawn_count": 33,
+      "stated_count": 34,
+      "drawn_count": 34,
       "match": true,
       "names": [
         "D. A. Goldston",
@@ -132,6 +132,7 @@
         "Yu Li",
         "Montgomery, Hugh L.",
         "John B. Friedlander",
+        "Hildebrand, Adolf",
         "Andrey Chmora",
         "Yong Zhang",
         "Maksym Radziwiłł",
@@ -155,8 +156,8 @@
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 25,
-      "drawn_count": 25,
+      "stated_count": 26,
+      "drawn_count": 26,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -169,6 +170,7 @@
         "Richert, H.-E.",
         "Sárközy, A.",
         "Fouvry, E.",
+        "Hooley, C.",
         "Marek Wolf",
         "Giovanni Coppola",
         "Paul Bilokon",
