@@ -3,20 +3,20 @@
   "n_top": 100,
   "unplaced": [
     "#11 Heath-Brown, D. R.",
-    "#21 Tenenbaum, Gérald",
-    "#24 Suryanarayana, D.",
-    "#30 Panaitopol, Laurenţiu",
-    "#31 Diamond, Harold G.",
-    "#32 Wolke, Dieter",
-    "#37 Richert, H.-E.",
-    "#41 Birke Heeren",
-    "#44 Hildebrand, Adolf",
-    "#45 Christopher Pompetzki",
-    "#47 Hooley, C.",
-    "#58 Cesar Ivens Barreto Carvalho",
-    "#76 Griff gurwell",
-    "#78 Andrea Corazza",
-    "#90 Nicolas, J. L."
+    "#19 Tenenbaum, Gérald",
+    "#22 Suryanarayana, D.",
+    "#28 Panaitopol, Laurenţiu",
+    "#29 Diamond, Harold G.",
+    "#30 Wolke, Dieter",
+    "#35 Richert, H.-E.",
+    "#39 Birke Heeren",
+    "#42 Hildebrand, Adolf",
+    "#43 Christopher Pompetzki",
+    "#45 Hooley, C.",
+    "#56 Cesar Ivens Barreto Carvalho",
+    "#74 Griff gurwell",
+    "#76 Andrea Corazza",
+    "#88 Nicolas, J. L."
   ],
   "maps": [
     {
@@ -40,10 +40,8 @@
         "Kevin Ford",
         "James Maynard",
         "Yong Wang",
-        "Halberstam, H.",
         "Murty, M. Ram",
         "Paul Pollack",
-        "P. Erdős",
         "Henryk Iwaniec",
         "Carl Pomerance",
         "Xiang Zhang (19800)",
@@ -109,13 +107,15 @@
         "Hao Pan",
         "Perelli, Alberto",
         "Stewart, C. L.",
-        "Ramachandra, K."
+        "Yu-Chen Sun",
+        "Frank Vega",
+        "Vivian Kuperberg"
       ]
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 33,
-      "drawn_count": 33,
+      "stated_count": 34,
+      "drawn_count": 34,
       "match": true,
       "names": [
         "D. A. Goldston",
@@ -124,7 +124,6 @@
         "Francisco Bustillos Morales",
         "Terence Tao",
         "Kevin Ford",
-        "Halberstam, H.",
         "Murty, M. Ram",
         "Paul Pollack",
         "Carl Pomerance",
@@ -150,20 +149,21 @@
         "Vaughan, Robert C.",
         "Jia Liu",
         "Jesse Thorner",
-        "Stewart, C. L."
+        "Stewart, C. L.",
+        "Frank Vega",
+        "Vivian Kuperberg"
       ]
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 23,
-      "drawn_count": 23,
+      "stated_count": 22,
+      "drawn_count": 22,
       "match": true,
       "names": [
         "Janos Pintz",
         "Kaisa Matomäki",
         "Harman, G.",
         "James Maynard",
-        "P. Erdős",
         "Henryk Iwaniec",
         "Ramaré, Olivier",
         "Sárközy, A.",
@@ -216,7 +216,7 @@
         "Hong‐Yeop Song",
         "Xiaoyan Jing",
         "Hao Pan",
-        "Ramachandra, K."
+        "Yu-Chen Sun"
       ]
     },
     {
