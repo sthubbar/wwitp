@@ -1,7 +1,12 @@
 {
   "site": "twin_primes",
   "n_top": 100,
+  "n_placed": 89,
+  "n_unplaced_no_geocode": 2,
+  "n_unplaced_no_institution": 9,
   "unplaced": [
+    "#78 Runbo Li [High School Affiliated to Renmin University of China]",
+    "#89 Fred B. Holt [NA]",
     "#20 Suryanarayana, D.",
     "#27 Wolke, Dieter",
     "#37 Christopher Pompetzki",
@@ -15,8 +20,8 @@
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 91,
-      "drawn_count": 91,
+      "stated_count": 89,
+      "drawn_count": 89,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
@@ -91,7 +96,6 @@
         "Frank Vega",
         "Vivian Kuperberg",
         "Deshouillers, J.-M.",
-        "Runbo Li",
         "Lior Bary-Soroker",
         "Brüdern, Jörg",
         "Tristan Freiberg",
@@ -100,7 +104,6 @@
         "Efrat Bank",
         "Rivat, Joël",
         "Kayck Santos Silva",
-        "Fred B. Holt",
         "Xuancheng Shao",
         "Bombieri, E.",
         "Felix Sidokhine",
@@ -195,8 +198,8 @@
     },
     {
       "file": "13_top100_asia.png",
-      "stated_count": 21,
-      "drawn_count": 21,
+      "stated_count": 20,
+      "drawn_count": 20,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
@@ -217,23 +220,25 @@
         "Lu Zhao",
         "Hao Pan",
         "Yu-Chen Sun",
-        "Runbo Li",
         "Adrian Dudek",
         "Huixi Li"
       ]
     },
     {
       "file": "14_top100_other.png",
-      "stated_count": 5,
-      "drawn_count": 5,
+      "stated_count": 4,
+      "drawn_count": 4,
       "match": true,
       "names": [
         "Florian Luca",
         "Ofir Gorodetsky",
         "Lior Bary-Soroker",
-        "Kayck Santos Silva",
-        "Fred B. Holt"
+        "Kayck Santos Silva"
       ]
     }
-  ]
+  ],
+  "geocode_sources": {
+    "legacy_gb_cache": 63,
+    "openalex": 26
+  }
 }
