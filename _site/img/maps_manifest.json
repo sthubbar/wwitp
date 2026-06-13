@@ -1,9 +1,9 @@
 {
   "site": "twin_primes",
   "n_top": 100,
-  "n_placed": 89,
+  "n_placed": 91,
   "n_unplaced_no_geocode": 2,
-  "n_unplaced_no_institution": 9,
+  "n_unplaced_no_institution": 7,
   "unplaced": [
     "#78 Runbo Li [High School Affiliated to Renmin University of China]",
     "#89 Fred B. Holt [NA]",
@@ -13,15 +13,13 @@
     "#57 Griff gurwell",
     "#59 Andrea Corazza",
     "#80 Khayyam Wakil",
-    "#83 Gheorghe Robert Cîmpeanu",
-    "#97 Hassani, Mehdi",
-    "#98 Greaves, George"
+    "#83 Gheorghe Robert Cîmpeanu"
   ],
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 89,
-      "drawn_count": 89,
+      "stated_count": 91,
+      "drawn_count": 91,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
@@ -111,9 +109,12 @@
         "Robert J. Lemke Oliver",
         "Alexander P. Mangerel",
         "Huixi Li",
+        "Hassani, Mehdi",
+        "Greaves, George",
         "Axler, Christian",
         "Will Sawin"
-      ]
+      ],
+      "unplaced_no_geocode_in_region": 2
     },
     {
       "file": "11_top100_north_america.png",
@@ -158,12 +159,13 @@
         "Felix Sidokhine",
         "Robert J. Lemke Oliver",
         "Will Sawin"
-      ]
+      ],
+      "unplaced_no_geocode_in_region": 0
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 28,
-      "drawn_count": 28,
+      "stated_count": 29,
+      "drawn_count": 29,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -193,8 +195,10 @@
         "Rivat, Joël",
         "Kaczorowski, J.",
         "Alexander P. Mangerel",
+        "Greaves, George",
         "Axler, Christian"
-      ]
+      ],
+      "unplaced_no_geocode_in_region": 0
     },
     {
       "file": "13_top100_asia.png",
@@ -222,23 +226,26 @@
         "Yu-Chen Sun",
         "Adrian Dudek",
         "Huixi Li"
-      ]
+      ],
+      "unplaced_no_geocode_in_region": 1
     },
     {
       "file": "14_top100_other.png",
-      "stated_count": 4,
-      "drawn_count": 4,
+      "stated_count": 5,
+      "drawn_count": 5,
       "match": true,
       "names": [
         "Florian Luca",
         "Ofir Gorodetsky",
         "Lior Bary-Soroker",
-        "Kayck Santos Silva"
-      ]
+        "Kayck Santos Silva",
+        "Hassani, Mehdi"
+      ],
+      "unplaced_no_geocode_in_region": 0
     }
   ],
   "geocode_sources": {
     "legacy_gb_cache": 63,
-    "openalex": 26
+    "openalex": 28
   }
 }
