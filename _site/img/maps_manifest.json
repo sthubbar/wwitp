@@ -2,7 +2,6 @@
   "site": "twin_primes",
   "n_top": 100,
   "unplaced": [
-    "#11 Heath-Brown, D. R.",
     "#21 Suryanarayana, D.",
     "#27 Diamond, Harold G.",
     "#28 Wolke, Dieter",
@@ -16,8 +15,8 @@
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 90,
-      "drawn_count": 90,
+      "stated_count": 91,
+      "drawn_count": 91,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
@@ -30,6 +29,7 @@
         "Ruqing Chen",
         "Terence Tao",
         "Florian Luca",
+        "Heath-Brown, D. R.",
         "Harman, G.",
         "Jiexing Li",
         "Kevin Ford",
@@ -156,12 +156,13 @@
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 25,
-      "drawn_count": 25,
+      "stated_count": 26,
+      "drawn_count": 26,
       "match": true,
       "names": [
         "Janos Pintz",
         "Kaisa Matomäki",
+        "Heath-Brown, D. R.",
         "Harman, G.",
         "James Maynard",
         "Tenenbaum, Gérald",
