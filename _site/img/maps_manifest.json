@@ -245,7 +245,7 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 63,
-    "openalex": 28
+    "legacy_gb_cache": 64,
+    "openalex": 27
   }
 }
