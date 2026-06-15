@@ -1,33 +1,30 @@
 {
   "site": "twin_primes",
   "n_top": 100,
-  "n_placed": 83,
-  "n_unplaced_no_geocode": 3,
-  "n_unplaced_no_institution": 14,
+  "n_placed": 86,
+  "n_unplaced_no_geocode": 4,
+  "n_unplaced_no_institution": 10,
   "unplaced": [
     "#35 Tsz Ho Chan [Kennesaw State University]",
+    "#46 Jie Wu [Institut Elie Cartan de Lorraine, CNRS]",
     "#79 Runbo Li [High School Affiliated to Renmin University of China]",
     "#80 Fred B. Holt [NA]",
     "#8 Christopher Pompetzki",
     "#16 Griff gurwell",
     "#18 Andrea Corazza",
-    "#19 Yingchun Cai",
-    "#25 Frank Vega",
     "#28 Khayyam Wakil",
     "#30 Gheorghe Robert Cîmpeanu",
     "#31 Suryanarayana, D.",
     "#37 Wolke, Dieter",
     "#81 De Koninck, Jean-Marie",
     "#86 Salerno, S.",
-    "#92 Jiseong Kim",
-    "#94 Bazzanella, D.",
-    "#98 Min Zhang"
+    "#94 Bazzanella, D."
   ],
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 83,
-      "drawn_count": 83,
+      "stated_count": 86,
+      "drawn_count": 86,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -45,11 +42,13 @@
         "Terence Tao",
         "Diamond, Harold G.",
         "Fouvry, E.",
+        "Yingchun Cai",
         "Henryk Iwaniec",
         "Carl Pomerance",
         "John B. Friedlander",
         "James Maynard",
         "Giovanni Coppola",
+        "Frank Vega",
         "Kevin Ford",
         "Stephan Baier",
         "Paul Pollack",
@@ -65,7 +64,6 @@
         "Ramaré, Olivier",
         "William D. Banks",
         "Montgomery, Hugh L.",
-        "Jie Wu",
         "Sergei Konyagin",
         "Sárközy, A.",
         "Maksym Radziwiłł",
@@ -107,19 +105,21 @@
         "Hongze Li",
         "Alexander P. Mangerel",
         "Axler, Christian",
+        "Jiseong Kim",
         "H. J. Weber",
         "Felix Sidokhine",
         "Helmut Maier",
         "Robert J. Lemke Oliver",
+        "Min Zhang",
         "Stephan Ramon Garcia",
         "Tolev, D. I."
       ],
-      "unplaced_no_geocode_in_region": 3
+      "unplaced_no_geocode_in_region": 4
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 35,
-      "drawn_count": 35,
+      "stated_count": 36,
+      "drawn_count": 36,
       "match": true,
       "names": [
         "D. A. Goldston",
@@ -130,6 +130,7 @@
         "Diamond, Harold G.",
         "Carl Pomerance",
         "John B. Friedlander",
+        "Frank Vega",
         "Kevin Ford",
         "Paul Pollack",
         "Katai, I.",
@@ -199,25 +200,27 @@
         "Helmut Maier",
         "Tolev, D. I."
       ],
-      "unplaced_no_geocode_in_region": 0
+      "unplaced_no_geocode_in_region": 1
     },
     {
       "file": "13_top100_asia.png",
-      "stated_count": 11,
-      "drawn_count": 11,
+      "stated_count": 13,
+      "drawn_count": 13,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
         "Apoloniusz Tyszka",
+        "Yingchun Cai",
         "Stephan Baier",
-        "Jie Wu",
         "Jia, Chaohua",
         "Hao Pan",
         "Adrian Dudek",
         "Yu-Chen Sun",
         "Jinjiang Li",
         "Zhefeng Xu",
-        "Hongze Li"
+        "Hongze Li",
+        "Jiseong Kim",
+        "Min Zhang"
       ],
       "unplaced_no_geocode_in_region": 1
     },
@@ -237,7 +240,7 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 67,
-    "openalex": 16
+    "legacy_gb_cache": 68,
+    "openalex": 18
   }
 }
