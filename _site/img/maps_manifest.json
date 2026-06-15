@@ -1,30 +1,29 @@
 {
   "site": "twin_primes",
   "n_top": 100,
-  "n_placed": 86,
-  "n_unplaced_no_geocode": 4,
-  "n_unplaced_no_institution": 10,
+  "n_placed": 87,
+  "n_unplaced_no_geocode": 13,
+  "n_unplaced_no_institution": 0,
   "unplaced": [
+    "#8 Christopher Pompetzki [-]",
+    "#16 Griff gurwell [-]",
+    "#18 Andrea Corazza [-]",
+    "#20 Henryk Iwaniec [Rutgers University]",
+    "#28 Khayyam Wakil [-]",
+    "#30 Gheorghe Robert Cîmpeanu [-]",
+    "#31 Suryanarayana, D. [Andhra University]",
     "#35 Tsz Ho Chan [Kennesaw State University]",
+    "#37 Wolke, Dieter [University of Freiburg]",
     "#46 Jie Wu [Institut Elie Cartan de Lorraine, CNRS]",
-    "#79 Runbo Li [High School Affiliated to Renmin University of China]",
     "#80 Fred B. Holt [NA]",
-    "#8 Christopher Pompetzki",
-    "#16 Griff gurwell",
-    "#18 Andrea Corazza",
-    "#28 Khayyam Wakil",
-    "#30 Gheorghe Robert Cîmpeanu",
-    "#31 Suryanarayana, D.",
-    "#37 Wolke, Dieter",
-    "#81 De Koninck, Jean-Marie",
-    "#86 Salerno, S.",
-    "#94 Bazzanella, D."
+    "#95 Felix Sidokhine [-]",
+    "#98 Min Zhang [Beijing Information Science and Technology University]"
   ],
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 86,
-      "drawn_count": 86,
+      "stated_count": 87,
+      "drawn_count": 87,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -43,7 +42,6 @@
         "Diamond, Harold G.",
         "Fouvry, E.",
         "Yingchun Cai",
-        "Henryk Iwaniec",
         "Carl Pomerance",
         "John B. Friedlander",
         "James Maynard",
@@ -96,10 +94,13 @@
         "Adrian Dudek",
         "Efrat Bank",
         "Hassani, Mehdi",
+        "Runbo Li",
+        "De Koninck, Jean-Marie",
         "Yu-Chen Sun",
         "Jesse Thorner",
         "Cojocaru, Alina Carmen",
         "Jinjiang Li",
+        "Salerno, S.",
         "Xuancheng Shao",
         "Zhefeng Xu",
         "Hongze Li",
@@ -107,19 +108,18 @@
         "Axler, Christian",
         "Jiseong Kim",
         "H. J. Weber",
-        "Felix Sidokhine",
+        "Bazzanella, D.",
         "Helmut Maier",
         "Robert J. Lemke Oliver",
-        "Min Zhang",
         "Stephan Ramon Garcia",
         "Tolev, D. I."
       ],
-      "unplaced_no_geocode_in_region": 4
+      "unplaced_no_geocode_in_region": 13
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 36,
-      "drawn_count": 36,
+      "stated_count": 37,
+      "drawn_count": 37,
       "match": true,
       "names": [
         "D. A. Goldston",
@@ -151,20 +151,21 @@
         "Vivian Kuperberg",
         "Alexei Kourbatov",
         "Efrat Bank",
+        "Runbo Li",
+        "De Koninck, Jean-Marie",
         "Jesse Thorner",
         "Cojocaru, Alina Carmen",
         "Xuancheng Shao",
         "H. J. Weber",
-        "Felix Sidokhine",
         "Robert J. Lemke Oliver",
         "Stephan Ramon Garcia"
       ],
-      "unplaced_no_geocode_in_region": 1
+      "unplaced_no_geocode_in_region": 2
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 32,
-      "drawn_count": 32,
+      "stated_count": 34,
+      "drawn_count": 34,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -173,7 +174,6 @@
         "Kaisa Matomäki",
         "Tenenbaum, Gérald",
         "Fouvry, E.",
-        "Henryk Iwaniec",
         "James Maynard",
         "Giovanni Coppola",
         "Yoichi Motohashi",
@@ -195,17 +195,20 @@
         "J. P. Keating",
         "Greaves, George",
         "Kaczorowski, J.",
+        "Yu-Chen Sun",
+        "Salerno, S.",
         "Alexander P. Mangerel",
         "Axler, Christian",
+        "Bazzanella, D.",
         "Helmut Maier",
         "Tolev, D. I."
       ],
-      "unplaced_no_geocode_in_region": 1
+      "unplaced_no_geocode_in_region": 3
     },
     {
       "file": "13_top100_asia.png",
-      "stated_count": 13,
-      "drawn_count": 13,
+      "stated_count": 11,
+      "drawn_count": 11,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
@@ -215,14 +218,12 @@
         "Jia, Chaohua",
         "Hao Pan",
         "Adrian Dudek",
-        "Yu-Chen Sun",
         "Jinjiang Li",
         "Zhefeng Xu",
         "Hongze Li",
-        "Jiseong Kim",
-        "Min Zhang"
+        "Jiseong Kim"
       ],
-      "unplaced_no_geocode_in_region": 1
+      "unplaced_no_geocode_in_region": 2
     },
     {
       "file": "14_top100_other.png",
@@ -236,11 +237,11 @@
         "Lior Bary-Soroker",
         "Hassani, Mehdi"
       ],
-      "unplaced_no_geocode_in_region": 0
+      "unplaced_no_geocode_in_region": 5
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 68,
-    "openalex": 18
+    "legacy_gb_cache": 72,
+    "openalex": 15
   }
 }
