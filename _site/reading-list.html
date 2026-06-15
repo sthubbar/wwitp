@@ -57,7 +57,7 @@
 </table>
 <script>
 $(document).ready(function() {
-  $('#rl').DataTable({ pageLength: 25, lengthMenu: [15, 25, 50], order: [[0, 'asc']] });
+  $('#rl').DataTable({ paging: false, info: false, lengthChange: false, searching: false, order: [[0, 'asc']] });
 });
 </script>
 
@@ -68,21 +68,21 @@ Results are filtered to the Mathematics field (OpenAlex field 26) and ranked by 
 <table id="mc" class="display compact stripe hover" style="width:100%">
 <thead><tr><th>#</th><th>Title</th><th>Authors</th><th>Year</th><th>Citations</th></tr></thead>
 <tbody>
-<tr><td style='text-align:center' data-order='1'>1</td><td><a href="https://doi.org/10.4007/annals.2014.179.3.7">Bounded gaps between primes</a></td><td>Zhang Yitang</td><td>2014</td><td style='text-align:right' data-order='463'>463 citations</td></tr>
-<tr><td style='text-align:center' data-order='2'>2</td><td><a href="https://doi.org/10.1090/s0025-5718-1975-0369287-1">Irregularities in the distribution of primes and twin primes</a></td><td>Richard P. Brent</td><td>1975</td><td style='text-align:right' data-order='55'>55 citations</td></tr>
-<tr><td style='text-align:center' data-order='3'>3</td><td><a href="https://doi.org/10.1353/ajm.2011.0033">Average twin prime conjecture for elliptic curves</a></td><td>Antal Balog; Alina-Carmen Cojocaru; Chantal David</td><td>2011</td><td style='text-align:right' data-order='50'>50 citations</td></tr>
-<tr><td style='text-align:center' data-order='4'>4</td><td><a href="https://doi.org/10.1090/s0025-5718-1961-0124305-0">Evaluation of Artin’s constant and the twin-prime constant</a></td><td>John W. Wrench</td><td>1961</td><td style='text-align:right' data-order='48'>48 citations</td></tr>
-<tr><td style='text-align:center' data-order='5'>5</td><td><a href="https://doi.org/10.4064/aa114-3-2">Chen&#x27;s double sieve, Goldbach&#x27;s conjecture and the twin prime problem</a></td><td><a href="people/jie-wu.html"><strong>Jie Wu</strong></a></td><td>2004</td><td style='text-align:right' data-order='47'>47 citations</td></tr>
-<tr><td style='text-align:center' data-order='6'>6</td><td><a href="https://doi.org/10.2140/ant.2014.8.1769">Bounded gaps between primes with a given primitive root</a></td><td><a href="people/paul-pollack.html"><strong>Paul Pollack</strong></a></td><td>2014</td><td style='text-align:right' data-order='39'>39 citations</td></tr>
-<tr><td style='text-align:center' data-order='7'>7</td><td><a href="https://doi.org/10.1016/s0019-3577(05)80013-8">Distributional Wiener-Ikehara theorem and twin primes</a></td><td>Jacob Korevaar</td><td>2005</td><td style='text-align:right' data-order='36'>36 citations</td></tr>
-<tr><td style='text-align:center' data-order='8'>8</td><td><a href="https://doi.org/10.1186/2197-9847-1-4">Bounded gaps between primes in Chebotarev sets</a></td><td><a href="people/jesse-thorner.html"><strong>Jesse Thorner</strong></a></td><td>2014</td><td style='text-align:right' data-order='36'>36 citations</td></tr>
-<tr><td style='text-align:center' data-order='9'>9</td><td><a href="https://openalex.org/W2944663720">New equidistribution estimates of Zhang type, and bounded gaps between primes</a></td><td>D. H. J. Polymath</td><td>2014</td><td style='text-align:right' data-order='33'>33 citations</td></tr>
-<tr><td style='text-align:center' data-order='10'>10</td><td><a href="https://doi.org/10.1112/s0025579300012584">Almost‐prime &lt;i&gt;k&lt;/i&gt; ‐tuples</a></td><td><a href="people/heath-brown-d-r.html"><strong>D. R. Heath‐Brown</strong></a></td><td>1997</td><td style='text-align:right' data-order='31'>31 citations</td></tr>
+<tr><td style='text-align:center' data-order='1'>1</td><td><a href="https://doi.org/10.4007/annals.2014.179.3.7">Bounded gaps between primes</a></td><td>Zhang Yitang</td><td>2014</td><td style='text-align:right' data-order='463'>463</td></tr>
+<tr><td style='text-align:center' data-order='2'>2</td><td><a href="https://doi.org/10.1090/s0025-5718-1975-0369287-1">Irregularities in the distribution of primes and twin primes</a></td><td>Richard P. Brent</td><td>1975</td><td style='text-align:right' data-order='55'>55</td></tr>
+<tr><td style='text-align:center' data-order='3'>3</td><td><a href="https://doi.org/10.1353/ajm.2011.0033">Average twin prime conjecture for elliptic curves</a></td><td>Antal Balog; Alina-Carmen Cojocaru; Chantal David</td><td>2011</td><td style='text-align:right' data-order='50'>50</td></tr>
+<tr><td style='text-align:center' data-order='4'>4</td><td><a href="https://doi.org/10.1090/s0025-5718-1961-0124305-0">Evaluation of Artin’s constant and the twin-prime constant</a></td><td>John W. Wrench</td><td>1961</td><td style='text-align:right' data-order='48'>48</td></tr>
+<tr><td style='text-align:center' data-order='5'>5</td><td><a href="https://doi.org/10.4064/aa114-3-2">Chen&#x27;s double sieve, Goldbach&#x27;s conjecture and the twin prime problem</a></td><td><a href="people/jie-wu.html"><strong>Jie Wu</strong></a></td><td>2004</td><td style='text-align:right' data-order='47'>47</td></tr>
+<tr><td style='text-align:center' data-order='6'>6</td><td><a href="https://doi.org/10.2140/ant.2014.8.1769">Bounded gaps between primes with a given primitive root</a></td><td><a href="people/paul-pollack.html"><strong>Paul Pollack</strong></a></td><td>2014</td><td style='text-align:right' data-order='39'>39</td></tr>
+<tr><td style='text-align:center' data-order='7'>7</td><td><a href="https://doi.org/10.1016/s0019-3577(05)80013-8">Distributional Wiener-Ikehara theorem and twin primes</a></td><td>Jacob Korevaar</td><td>2005</td><td style='text-align:right' data-order='36'>36</td></tr>
+<tr><td style='text-align:center' data-order='8'>8</td><td><a href="https://doi.org/10.1186/2197-9847-1-4">Bounded gaps between primes in Chebotarev sets</a></td><td><a href="people/jesse-thorner.html"><strong>Jesse Thorner</strong></a></td><td>2014</td><td style='text-align:right' data-order='36'>36</td></tr>
+<tr><td style='text-align:center' data-order='9'>9</td><td><a href="https://openalex.org/W2944663720">New equidistribution estimates of Zhang type, and bounded gaps between primes</a></td><td>D. H. J. Polymath</td><td>2014</td><td style='text-align:right' data-order='33'>33</td></tr>
+<tr><td style='text-align:center' data-order='10'>10</td><td><a href="https://doi.org/10.1112/s0025579300012584">Almost‐prime &lt;i&gt;k&lt;/i&gt; ‐tuples</a></td><td><a href="people/heath-brown-d-r.html"><strong>D. R. Heath‐Brown</strong></a></td><td>1997</td><td style='text-align:right' data-order='31'>31</td></tr>
 </tbody>
 </table>
 <script>
 $(document).ready(function() {
-  $('#mc').DataTable({ pageLength: 10, lengthMenu: [10, 25], order: [[0, 'asc']] });
+  $('#mc').DataTable({ paging: false, info: false, lengthChange: false, searching: false, order: [[0, 'asc']] });
 });
 </script>
 
