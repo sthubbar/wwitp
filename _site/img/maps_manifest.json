@@ -5,15 +5,15 @@
   "n_unplaced_no_geocode": 2,
   "n_unplaced_no_institution": 7,
   "unplaced": [
-    "#78 Runbo Li [High School Affiliated to Renmin University of China]",
-    "#89 Fred B. Holt [NA]",
+    "#79 Runbo Li [High School Affiliated to Renmin University of China]",
+    "#90 Fred B. Holt [NA]",
     "#26 Wolke, Dieter",
     "#33 Suryanarayana, D.",
-    "#35 Christopher Pompetzki",
-    "#56 Griff gurwell",
-    "#57 Andrea Corazza",
-    "#82 Khayyam Wakil",
-    "#85 Gheorghe Robert Cîmpeanu"
+    "#36 Christopher Pompetzki",
+    "#57 Griff gurwell",
+    "#58 Andrea Corazza",
+    "#83 Khayyam Wakil",
+    "#86 Gheorghe Robert Cîmpeanu"
   ],
   "maps": [
     {
@@ -53,6 +53,7 @@
         "John B. Friedlander",
         "Sárközy, A.",
         "Diamond, Harold G.",
+        "Yoichi Motohashi",
         "Zhengchun Zhou",
         "Fouvry, E.",
         "Cai, Yingchun",
@@ -111,8 +112,7 @@
         "Stephan Ramon Garcia",
         "Huixi Li",
         "Will Sawin",
-        "Hassani, Mehdi",
-        "Greaves, George"
+        "Hassani, Mehdi"
       ],
       "unplaced_no_geocode_in_region": 2
     },
@@ -178,6 +178,7 @@
         "Henryk Iwaniec",
         "Ramaré, Olivier",
         "Sárközy, A.",
+        "Yoichi Motohashi",
         "Fouvry, E.",
         "Marek Wolf",
         "Giovanni Coppola",
@@ -195,8 +196,7 @@
         "Brüdern, Jörg",
         "Alexander P. Mangerel",
         "Rivat, Joël",
-        "Kaczorowski, J.",
-        "Greaves, George"
+        "Kaczorowski, J."
       ],
       "unplaced_no_geocode_in_region": 0
     },
@@ -245,7 +245,7 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 64,
-    "openalex": 27
+    "legacy_gb_cache": 65,
+    "openalex": 26
   }
 }
