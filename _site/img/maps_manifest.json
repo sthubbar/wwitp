@@ -1,28 +1,25 @@
 {
   "site": "twin_primes",
   "n_top": 100,
-  "n_placed": 88,
-  "n_unplaced_no_geocode": 12,
+  "n_placed": 91,
+  "n_unplaced_no_geocode": 9,
   "n_unplaced_no_institution": 0,
   "unplaced": [
     "#14 Andrea Corazza [-]",
-    "#19 Henryk Iwaniec [Rutgers University]",
     "#22 Khayyam Wakil [-]",
     "#24 Gheorghe Robert Cîmpeanu [-]",
     "#31 Suryanarayana, D. [Andhra University]",
     "#34 Tsz Ho Chan [Kennesaw State University]",
     "#37 Wolke, Dieter [University of Freiburg]",
-    "#43 Jie Wu [Institut Elie Cartan de Lorraine, CNRS]",
     "#78 Fred B. Holt [NA]",
     "#91 Felix Sidokhine [-]",
-    "#94 Min Zhang [Beijing Information Science and Technology University]",
     "#100 Amos Voron [-]"
   ],
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 88,
-      "drawn_count": 88,
+      "stated_count": 91,
+      "drawn_count": 91,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -42,6 +39,7 @@
         "Fouvry, E.",
         "Frank Vega",
         "Yingchun Cai",
+        "Henryk Iwaniec",
         "Carl Pomerance",
         "John B. Friedlander",
         "James Maynard",
@@ -60,6 +58,7 @@
         "C. Y. Yildirim",
         "Ramaré, Olivier",
         "William D. Banks",
+        "Jie Wu",
         "Montgomery, Hugh L.",
         "Maksym Radziwiłł",
         "Sergei Konyagin",
@@ -108,18 +107,19 @@
         "Axler, Christian",
         "Bazzanella, D.",
         "Robert J. Lemke Oliver",
+        "Min Zhang",
         "Helmut Maier",
         "Stephan Ramon Garcia",
         "Tolev, D. I.",
         "Angel Kumchev",
         "H. J. Weber"
       ],
-      "unplaced_no_geocode_in_region": 12
+      "unplaced_no_geocode_in_region": 9
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 38,
-      "drawn_count": 38,
+      "stated_count": 39,
+      "drawn_count": 39,
       "match": true,
       "names": [
         "D. A. Goldston",
@@ -129,6 +129,7 @@
         "Elliott, P. D. T. A.",
         "Diamond, Harold G.",
         "Frank Vega",
+        "Henryk Iwaniec",
         "Carl Pomerance",
         "John B. Friedlander",
         "Kevin Ford",
@@ -161,12 +162,12 @@
         "Angel Kumchev",
         "H. J. Weber"
       ],
-      "unplaced_no_geocode_in_region": 2
+      "unplaced_no_geocode_in_region": 1
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 34,
-      "drawn_count": 34,
+      "stated_count": 35,
+      "drawn_count": 35,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -183,6 +184,7 @@
         "Joni Teräväinen",
         "C. Y. Yildirim",
         "Ramaré, Olivier",
+        "Jie Wu",
         "Sergei Konyagin",
         "Sárközy, A.",
         "Marek Wolf",
@@ -204,12 +206,12 @@
         "Helmut Maier",
         "Tolev, D. I."
       ],
-      "unplaced_no_geocode_in_region": 2
+      "unplaced_no_geocode_in_region": 1
     },
     {
       "file": "13_top100_asia.png",
-      "stated_count": 11,
-      "drawn_count": 11,
+      "stated_count": 12,
+      "drawn_count": 12,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
@@ -222,9 +224,10 @@
         "Zhefeng Xu",
         "Jinjiang Li",
         "Hongze Li",
-        "Jiseong Kim"
+        "Jiseong Kim",
+        "Min Zhang"
       ],
-      "unplaced_no_geocode_in_region": 2
+      "unplaced_no_geocode_in_region": 1
     },
     {
       "file": "14_top100_other.png",
@@ -242,7 +245,8 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 73,
-    "openalex": 15
+    "legacy_gb_cache": 72,
+    "openalex": 15,
+    "verified:2026-06-15(Claude,web; main campus)": 4
   }
 }
