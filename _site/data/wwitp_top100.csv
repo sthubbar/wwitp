@@ -78,7 +78,7 @@ rank,name,name_ascii,institution,country,arxiv_rank,openalex_rank,zbmath_rank,ar
 77,Mehdi Hassani,Mehdi Hassani,University of Zanjan,IR,,,55,,,,,,,1999,2026,,,,
 78,Fred B. Holt,Fred B. Holt,NA,NA,38,,99,8,,,,6,openalex,2013,2026,,,,
 79,Yu-Chen Sun,Yu-Chen Sun,University of Turku,FI,34,,,6,,,,,,2018,2026,,,,
-80,Jean-Marie De Koninck,Jean-Marie De Koninck,Universite Laval,CA,,,57,,,,,,,,,,,,
+80,Jean-Marie De Koninck,Jean-Marie De Koninck,Universite Laval,CA,,,57,,,,,10,openalex,,,,,,
 81,Jesse Thorner,Jesse Thorner,University of Illinois Urbana-Champaign,US,36,,,7,,,,9,openalex,2013,2025,,,,
 82,Zhefeng Xu,Zhefeng Xu,Northwest University,CN,,54,,1,3,3,,,,2022,2024,,,,
 83,Alina Carmen Cojocaru,Alina Carmen Cojocaru,University of Illinois Chicago,US,,,60,1,,,,14,openalex,2004,2023,,,,
