@@ -1,8 +1,8 @@
 {
   "site": "twin_primes",
   "n_top": 100,
-  "n_placed": 91,
-  "n_unplaced_no_geocode": 9,
+  "n_placed": 92,
+  "n_unplaced_no_geocode": 8,
   "n_unplaced_no_institution": 0,
   "unplaced": [
     "#15 David M. Potts [-]",
@@ -11,15 +11,14 @@
     "#28 Gheorghe Robert Cîmpeanu [-]",
     "#31 D. Suryanarayana [Andhra University]",
     "#35 Tsz Ho Chan [Kennesaw State University]",
-    "#38 Dieter Wolke [University of Freiburg]",
     "#79 Fred B. Holt [NA]",
     "#93 Felix Sidokhine [-]"
   ],
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 91,
-      "drawn_count": 91,
+      "stated_count": 92,
+      "drawn_count": 92,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -53,6 +52,7 @@
         "Kayck Santos Silva",
         "Michael Filaseta",
         "K. Soundararajan",
+        "Dieter Wolke",
         "Alessandro Zaccagnini",
         "Joni Teräväinen",
         "C. Y. Yildirim",
@@ -114,7 +114,7 @@
         "Angel Kumchev",
         "H. J. Weber"
       ],
-      "unplaced_no_geocode_in_region": 9
+      "unplaced_no_geocode_in_region": 8
     },
     {
       "file": "11_top100_north_america.png",
@@ -166,8 +166,8 @@
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 35,
-      "drawn_count": 35,
+      "stated_count": 36,
+      "drawn_count": 36,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -180,6 +180,7 @@
         "Giovanni Coppola",
         "Yoichi Motohashi",
         "Alessandro Languasco",
+        "Dieter Wolke",
         "Alessandro Zaccagnini",
         "Joni Teräväinen",
         "C. Y. Yildirim",
@@ -206,7 +207,7 @@
         "Helmut Maier",
         "Doychin Tolev"
       ],
-      "unplaced_no_geocode_in_region": 1
+      "unplaced_no_geocode_in_region": 0
     },
     {
       "file": "13_top100_asia.png",
@@ -247,6 +248,7 @@
   "geocode_sources": {
     "legacy_gb_cache": 72,
     "openalex": 15,
-    "verified:2026-06-15(Claude,web; main campus)": 4
+    "verified:2026-06-15(Claude,web; main campus)": 4,
+    "manual:wikipedia-coords 2026-06-19": 1
   }
 }
