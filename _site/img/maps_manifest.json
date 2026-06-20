@@ -1,24 +1,22 @@
 {
   "site": "twin_primes",
   "n_top": 100,
-  "n_placed": 92,
-  "n_unplaced_no_geocode": 8,
+  "n_placed": 94,
+  "n_unplaced_no_geocode": 6,
   "n_unplaced_no_institution": 0,
   "unplaced": [
     "#15 David M. Potts [-]",
     "#17 Andrea Corazza [-]",
     "#27 Khayyam Wakil [-]",
     "#28 Gheorghe Robert Cîmpeanu [-]",
-    "#31 D. Suryanarayana [Andhra University]",
-    "#35 Tsz Ho Chan [Kennesaw State University]",
     "#79 Fred B. Holt [NA]",
     "#93 Felix Sidokhine [-]"
   ],
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 92,
-      "drawn_count": 92,
+      "stated_count": 94,
+      "drawn_count": 94,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -47,9 +45,11 @@
         "Stephan Baier",
         "Paul Pollack",
         "Yoichi Motohashi",
+        "D. Suryanarayana",
         "Imre Kátai",
         "Alessandro Languasco",
         "Kayck Santos Silva",
+        "Tsz Ho Chan",
         "Michael Filaseta",
         "K. Soundararajan",
         "Dieter Wolke",
@@ -114,7 +114,7 @@
         "Angel Kumchev",
         "H. J. Weber"
       ],
-      "unplaced_no_geocode_in_region": 8
+      "unplaced_no_geocode_in_region": 6
     },
     {
       "file": "11_top100_north_america.png",
@@ -131,10 +131,10 @@
         "Henryk Iwaniec",
         "Carl Pomerance",
         "John B. Friedlander",
-        "Frank Vega",
         "Kevin Ford",
         "Paul Pollack",
         "Imre Kátai",
+        "Tsz Ho Chan",
         "Michael Filaseta",
         "K. Soundararajan",
         "William D. Banks",
@@ -166,8 +166,8 @@
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 36,
-      "drawn_count": 36,
+      "stated_count": 37,
+      "drawn_count": 37,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -176,6 +176,7 @@
         "Kaisa Matomäki",
         "Gérald Tenenbaum",
         "Etienne Fouvry",
+        "Frank Vega",
         "James Maynard",
         "Giovanni Coppola",
         "Yoichi Motohashi",
@@ -211,14 +212,15 @@
     },
     {
       "file": "13_top100_asia.png",
-      "stated_count": 12,
-      "drawn_count": 12,
+      "stated_count": 13,
+      "drawn_count": 13,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
         "Apoloniusz Tyszka",
         "Yingchun Cai",
         "Stephan Baier",
+        "D. Suryanarayana",
         "Chaohua Jia",
         "Hao Pan",
         "Adrian Dudek",
@@ -228,7 +230,7 @@
         "Jiseong Kim",
         "Min Zhang"
       ],
-      "unplaced_no_geocode_in_region": 1
+      "unplaced_no_geocode_in_region": 0
     },
     {
       "file": "14_top100_other.png",
@@ -249,6 +251,7 @@
     "legacy_gb_cache": 72,
     "openalex": 15,
     "verified:2026-06-15(Claude,web; main campus)": 4,
+    "verified:2026-06-20(Claude,web)": 2,
     "manual:wikipedia-coords 2026-06-19": 1
   }
 }
