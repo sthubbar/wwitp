@@ -106,9 +106,8 @@
 </div>
 </details>
 
-<span id="ctryFilterWrapI" style="display:none;margin-right:14px"><label>Country <select id="fltCountryI"><option value="">All</option></select></label></span>
 <table id="institutions" class="display compact stripe hover" style="width:100%">
-<thead><tr><th class="rtcol">#</th><th>Institution</th><th class="rtcol">Ctry</th><th class="rtcol">Top 100</th><th class="rtcol">Training</th><th class="rtcol">Environment</th></tr></thead>
+<thead><tr><th class="rtcol">#</th><th>Institution</th><th class="rtcol" data-dt-order="disable"><select id="fltCountryI" title="Filter by country"><option value="">Ctry</option></select></th><th class="rtcol">Top 100</th><th class="rtcol">Training</th><th class="rtcol">Environment</th></tr></thead>
 <tbody>
 <tr><td class="rtcol">1</td><td title="Ranked researchers here: Joni Teräväinen (#7); Top 100 PhD alumni: Peter D. T. A. Elliott (#19), Hugh Lowell Montgomery (#39), Cameron L. Stewart (#45)"><a href="https://www.cam.ac.uk">University of Cambridge</a></td><td class="rtcol">GB</td><td class="rtcol" data-order="1">1</td><td class="rtcol" data-order="0.9852216748768474">0.99</td><td class="rtcol" data-order="0.7004728370197791">0.70</td></tr>
 <tr><td class="rtcol">2</td><td title="Ranked researchers here: Glyn Harman (#26); Top 100 PhD alumni: Kaisa Matomäki (#2), Glyn Harman (#26)"><a href="https://www.royalholloway.ac.uk/home.aspx">Royal Holloway University of London</a></td><td class="rtcol">GB</td><td class="rtcol" data-order="1">1</td><td class="rtcol" data-order="0.8571428571428572">0.86</td><td class="rtcol" data-order="0.8107443313096243">0.81</td></tr>
@@ -221,15 +220,16 @@
 $(document).ready(function() {
   var itable = $('#institutions').DataTable({
     pageLength: 25,
-    lengthMenu: [25, 50, 100],
+    lengthMenu: [[25, 50, 100], ['25 per page', '50 per page', '100 per page']],
+    language: { lengthMenu: '_MENU_' },
     order: [[0, 'asc']],
     autoWidth: false,
     columnDefs: [{ targets: [3, 4, 5], orderSequence: ['desc', 'asc'] }]
   });
-  // Country filter in the toolbar row, same level as the length selector
-  // and the search box (Steve 2026-07-04).
-  $('#ctryFilterWrapI').css('display','inline-flex').insertBefore(
-    $('#institutions').closest('.dt-container').find('div.dt-search').first());
+  // Experiment 2 (Steve 2026-07-04): the Ctry header IS the filter; the
+  // first option "Ctry" is the all-countries state. Column 2 ordering is
+  // disabled so opening the dropdown never triggers a sort.
+  $('#fltCountryI').on('click', function (e) { e.stopPropagation(); });
   function istrip(d) { return $('<div>').html(d == null ? '' : d).text().trim(); }
   var seen = {};
   itable.column(2).data().each(function (d) { var t = istrip(d); if (t) seen[t] = 1; });
