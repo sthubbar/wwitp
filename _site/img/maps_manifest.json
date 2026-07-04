@@ -118,8 +118,8 @@
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 39,
-      "drawn_count": 39,
+      "stated_count": 38,
+      "drawn_count": 38,
       "match": true,
       "names": [
         "Daniel A. Goldston",
@@ -157,7 +157,6 @@
         "Robert J. Lemke Oliver",
         "Stephan Ramon Garcia",
         "Jonathan Sorenson",
-        "Emmanuel Kowalski",
         "David Lowry-Duda",
         "Krishnaswami Alladi",
         "S. W. Graham"
@@ -166,8 +165,8 @@
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 35,
-      "drawn_count": 35,
+      "stated_count": 36,
+      "drawn_count": 36,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -204,7 +203,8 @@
         "Michael Th. Rassias",
         "Doychin Tolev",
         "M. N. Huxley",
-        "Jie Wu"
+        "Jie Wu",
+        "Emmanuel Kowalski"
       ],
       "unplaced_no_geocode_in_region": 1
     },
@@ -250,8 +250,8 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 74,
-    "openalex": 17,
+    "legacy_gb_cache": 75,
+    "openalex": 16,
     "verified:2026-06-15(Claude,web; main campus)": 3,
     "verified:2026-06-20(Claude,web)": 1,
     "manual:wikipedia-coords 2026-06-19": 1
