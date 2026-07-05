@@ -48,6 +48,8 @@
    regular weight once a country is selected; in the open list the "Ctry"
    option is bold, the country options regular. */
 #top100tbl thead th.ctry-th,#institutions thead th.ctry-th{padding:2px 3px !important;text-align:center;}
+/* subtle in-header nudge, e.g. "(hover rows for details)" (Steve 2026-07-05) */
+#institutions thead th .hdr-hint{font-weight:400;font-size:0.85em;color:#666;white-space:nowrap;}
 #top100tbl thead th.ctry-th select,#institutions thead th.ctry-th select{margin:0;font-weight:400;}
 #top100tbl thead th.ctry-th select.ctry-all,#institutions thead th.ctry-th select.ctry-all{font-weight:700;}
 #top100tbl thead th.ctry-th select option,#institutions thead th.ctry-th select option{font-weight:400;}
@@ -102,7 +104,7 @@
 <p>Showing 15 papers, ranked by the Top 100 standing of their authors then by recency. Authors who appear in the Top 100 are shown in bold.</p>
 
 <table id="rl" class="display compact stripe hover" style="width:100%">
-<thead><tr><th>#</th><th>Title</th><th>Authors</th><th>Published</th><th>Best rank</th></tr></thead>
+<thead><tr><th title="Position in this list">#</th><th title="The paper; click to read it">Title</th><th title="Authors; ranked Top 100 authors link to their profiles">Authors</th><th title="Publication date">Published</th><th title="The best Top 100 rank among the paper's authors">Best rank</th></tr></thead>
 <tbody>
 <tr><td style='text-align:center' data-order='1'>1</td><td><a href="https://arxiv.org/abs/2604.23661v1">Large sieve inequality for sums of Legendre symbols over short intervals</a></td><td><a href="people/igor-e-shparlinski.html"><strong>Igor Shparlinski</strong></a>, Yixiu Xiao</td><td>2026-04</td><td style='text-align:center' data-order='4'>#4</td></tr>
 <tr><td style='text-align:center' data-order='2'>2</td><td><a href="https://arxiv.org/abs/2507.09271v1">On the correlations between character sums of division polynomials under shifts</a></td><td>Subham Bhakta, <a href="people/igor-e-shparlinski.html"><strong>Igor E. Shparlinski</strong></a></td><td>2025-07</td><td style='text-align:center' data-order='4'>#4</td></tr>
@@ -133,7 +135,7 @@ Results are filtered to the Mathematics field (OpenAlex field 26) and ranked by 
 <p class="muted">The Top 100 ranking is designed to capture prominent, currently active researchers. If an author in this table is not linked to a profile, it is usually because they are deceased or less active than the researchers in the ranking, not because they are less significant to the field.</p>
 
 <table id="mc" class="display compact stripe hover" style="width:100%">
-<thead><tr><th>#</th><th>Title</th><th>Authors</th><th>Year</th><th>Citations</th></tr></thead>
+<thead><tr><th title="Position by citation count">#</th><th title="The paper; click to find it via Google Scholar">Title</th><th title="Authors; ranked Top 100 authors link to their profiles">Authors</th><th title="Publication year">Year</th><th title="Citation count">Citations</th></tr></thead>
 <tbody>
 <tr><td style='text-align:center' data-order='1'>1</td><td><a href="https://scholar.google.com/scholar?q=Bounded%20gaps%20between%20primes">Bounded gaps between primes</a> <a class="doi-link" href="https://doi.org/10.4007/annals.2014.179.3.7">DOI</a></td><td>Zhang Yitang</td><td>2014</td><td style='text-align:right' data-order='463'>463</td></tr>
 <tr><td style='text-align:center' data-order='2'>2</td><td><a href="https://scholar.google.com/scholar?q=Irregularities%20in%20the%20distribution%20of%20primes%20and%20twin%20primes">Irregularities in the distribution of primes and twin primes</a> <a class="doi-link" href="https://doi.org/10.1090/s0025-5718-1975-0369287-1">DOI</a></td><td>Richard P. Brent</td><td>1975</td><td style='text-align:right' data-order='55'>55</td></tr>
