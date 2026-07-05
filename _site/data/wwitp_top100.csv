@@ -82,7 +82,7 @@ rank,name,name_ascii,institution,country,arxiv_rank,openalex_rank,zbmath_rank,ar
 81,T. N. Shorey,T. N. Shorey,Indian Institute of Technology Bombay,IN,,,58,,,,,,,,,,,,
 82,Liangyi Zhao,Liangyi Zhao,UNSW Sydney,AU,,,59,1,2,7,,14,openalex,2016,2018,,,,
 83,Tristan Freiberg,Tristan Freiberg,University of Waterloo,CA,26,158,115,7,7,27,,4,openalex,2011,2011,,,,
-84,Fred B. Holt,Fred B. Holt,NA,NA,32,185,82,8,7,6,,6,openalex,2013,2026,,,,
+84,Fred B. Holt,Fred B. Holt,-,-,32,185,82,8,7,6,,6,openalex,2013,2026,,,,
 85,Bingrong Huang,Bingrong Huang,State Key Laboratory of Cryptology,CN,45,114,,5,8,49,,7,openalex,2014,2023,,,,
 86,Jesse Thorner,Jesse Thorner,University of Illinois Urbana-Champaign,US,35,182,,7,6,72,,9,openalex,2013,2025,,,,
 87,M. N. Huxley,M. N. Huxley,Cardiff University,GB,,,61,,6,533,,,,1971,2004,,,,
