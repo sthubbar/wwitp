@@ -118,8 +118,8 @@
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 38,
-      "drawn_count": 38,
+      "stated_count": 37,
+      "drawn_count": 37,
       "match": true,
       "names": [
         "Daniel A. Goldston",
@@ -141,7 +141,6 @@
         "Brad Rodgers",
         "Adolf Hildebrand",
         "Cameron L. Stewart",
-        "Imre Kátai",
         "Enrico Bombieri",
         "Sun-Kai Leung",
         "Xuancheng Shao",
@@ -165,8 +164,8 @@
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 37,
-      "drawn_count": 37,
+      "stated_count": 38,
+      "drawn_count": 38,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -192,6 +191,7 @@
         "Yu-Chen Sun",
         "Jörg Brüdern",
         "Jean‐Marc Deshouillers",
+        "Imre Kátai",
         "Joël Rivat",
         "George Greaves",
         "Cem Yalçın Yıldırım",
@@ -251,8 +251,8 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 76,
-    "openalex": 15,
+    "legacy_gb_cache": 77,
+    "openalex": 14,
     "verified:2026-06-15(Claude,web; main campus)": 3,
     "verified:2026-06-20(Claude,web)": 1,
     "manual:wikipedia-coords 2026-06-19": 1,
