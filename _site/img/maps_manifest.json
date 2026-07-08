@@ -1,10 +1,11 @@
 {
   "site": "twin_primes",
   "n_top": 100,
-  "n_placed": 97,
-  "n_unplaced_no_geocode": 3,
+  "n_placed": 96,
+  "n_unplaced_no_geocode": 4,
   "n_unplaced_no_institution": 0,
   "unplaced": [
+    "#70 Alexei Kourbatov [-]",
     "#84 Fred B. Holt [-]",
     "#94 Felix Sidokhine [-]",
     "#98 Douglas Azevedo [Universidade Tecnologica Federal do Parana]"
@@ -12,8 +13,8 @@
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 97,
-      "drawn_count": 97,
+      "stated_count": 96,
+      "drawn_count": 96,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -85,7 +86,6 @@
         "Matt Visser",
         "Yuta Suzuki",
         "S. Salerno",
-        "Alexei Kourbatov",
         "Hongze Li",
         "Will Sawin",
         "Christian Axler",
@@ -114,12 +114,12 @@
         "Krishnaswami Alladi",
         "S. W. Graham"
       ],
-      "unplaced_no_geocode_in_region": 3
+      "unplaced_no_geocode_in_region": 4
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 37,
-      "drawn_count": 37,
+      "stated_count": 36,
+      "drawn_count": 36,
       "match": true,
       "names": [
         "Daniel A. Goldston",
@@ -148,7 +148,6 @@
         "Roger C. Baker",
         "Efrat Bank",
         "Alina Carmen Cojocaru",
-        "Alexei Kourbatov",
         "Will Sawin",
         "Angel Kumchev",
         "Tristan Freiberg",
@@ -160,7 +159,7 @@
         "Krishnaswami Alladi",
         "S. W. Graham"
       ],
-      "unplaced_no_geocode_in_region": 1
+      "unplaced_no_geocode_in_region": 2
     },
     {
       "file": "12_top100_europe.png",
@@ -251,7 +250,7 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 77,
+    "legacy_gb_cache": 76,
     "openalex": 14,
     "verified:2026-06-15(Claude,web; main campus)": 3,
     "verified:2026-06-20(Claude,web)": 1,

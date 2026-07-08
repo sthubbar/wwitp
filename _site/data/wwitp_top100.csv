@@ -68,7 +68,7 @@ rank,name,name_ascii,institution,country,arxiv_rank,openalex_rank,zbmath_rank,ar
 67,Matt Visser,Matt Visser,Victoria University of Wellington,NZ,34,120,,5,7,4,,,,1981,2026,,,,
 68,Yuta Suzuki,Yuta Suzuki,Rikkyo University,JP,25,186,,4,5,0,,18,openalex,2015,2024,,,,
 69,S. Salerno,S. Salerno,University of Salerno,IT,,,51,,5,30,,,,1982,2013,,,,
-70,Alexei Kourbatov,Alexei Kourbatov,Allscripts (United States),US,30,,106,7,5,21,,4,openalex,2013,2020,,,,
+70,Alexei Kourbatov,Alexei Kourbatov,-,US,30,,106,7,5,21,,4,openalex,2013,2020,,,,
 71,Hongze Li,Hongze Li,Shanghai Jiao Tong University,CN,,,52,1,,,,,,2014,2014,,,,
 72,Will Sawin,Will Sawin,Princeton University,US,33,143,,5,6,25,,10,openalex,2015,2026,,,,
 73,Christian Axler,Christian Axler,Heinrich Heine University Düsseldorf,DE,,,53,2,4,16,,5,openalex,2017,2022,,,,
