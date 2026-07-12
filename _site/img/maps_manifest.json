@@ -140,11 +140,11 @@
         "Brad Rodgers",
         "Adolf Hildebrand",
         "Cameron L. Stewart",
+        "Jiseong Kim",
         "Enrico Bombieri",
         "Xuancheng Shao",
         "Jean-Marie De Koninck",
         "Roger C. Baker",
-        "Efrat Bank",
         "Alina Carmen Cojocaru",
         "Will Sawin",
         "Angel Kumchev",
@@ -209,8 +209,8 @@
     },
     {
       "file": "13_top100_asia.png",
-      "stated_count": 18,
-      "drawn_count": 18,
+      "stated_count": 17,
+      "drawn_count": 17,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
@@ -218,7 +218,6 @@
         "Yingchun Cai",
         "D. Suryanarayana",
         "Yoichi Motohashi",
-        "Jiseong Kim",
         "Jinjiang Li",
         "Matt Visser",
         "Yuta Suzuki",
@@ -236,24 +235,25 @@
     },
     {
       "file": "14_top100_other.png",
-      "stated_count": 5,
-      "drawn_count": 5,
+      "stated_count": 6,
+      "drawn_count": 6,
       "match": true,
       "names": [
         "Florian Luca",
         "Ofir Gorodetsky",
         "Mehdi Hassani",
         "Lior Bary-Soroker",
+        "Efrat Bank",
         "Zeev Rudnick"
       ],
       "unplaced_no_geocode_in_region": 1
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 77,
+    "legacy_gb_cache": 76,
     "openalex": 12,
     "verified:2026-06-15(Claude,web; main campus)": 3,
-    "verified:2026-06-20(Claude,web)": 1,
+    "verified:2026-06-20(Claude,web)": 2,
     "manual:wikipedia-coords 2026-06-19": 1,
     "verified:web (Claude,2026-07-11)": 1,
     "https://openalex.org/I12323705:mgpschool2026-07-04": 1
