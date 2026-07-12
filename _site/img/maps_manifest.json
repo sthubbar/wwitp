@@ -5,10 +5,10 @@
   "n_unplaced_no_geocode": 4,
   "n_unplaced_no_institution": 0,
   "unplaced": [
-    "#70 Alexei Kourbatov [-]",
-    "#84 Fred B. Holt [-]",
-    "#94 Felix Sidokhine [-]",
-    "#98 Douglas Azevedo [Universidade Tecnologica Federal do Parana]"
+    "#69 Alexei Kourbatov [-]",
+    "#83 Fred B. Holt [-]",
+    "#93 Felix Sidokhine [-]",
+    "#97 Douglas Azevedo [Universidade Tecnologica Federal do Parana]"
   ],
   "maps": [
     {
@@ -46,7 +46,6 @@
         "Yingchun Cai",
         "Carl Pomerance",
         "William D. Banks",
-        "Marek Wolf",
         "Henryk Iwaniec",
         "Alexander P. Mangerel",
         "D. Suryanarayana",
@@ -112,7 +111,8 @@
         "Zeev Rudnick",
         "David Lowry-Duda",
         "Krishnaswami Alladi",
-        "S. W. Graham"
+        "S. W. Graham",
+        "Lasse Grimmelt"
       ],
       "unplaced_no_geocode_in_region": 4
     },
@@ -177,7 +177,6 @@
         "Giovanni Coppola",
         "Etienne Fouvry",
         "Glyn Harman",
-        "Marek Wolf",
         "Alexander P. Mangerel",
         "Sergey Konyagin",
         "Dieter Wolke",
@@ -203,7 +202,8 @@
         "Mithun Kumar Das",
         "M. N. Huxley",
         "Jie Wu",
-        "Emmanuel Kowalski"
+        "Emmanuel Kowalski",
+        "Lasse Grimmelt"
       ],
       "unplaced_no_geocode_in_region": 0
     },
@@ -250,8 +250,8 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 76,
-    "openalex": 12,
+    "legacy_gb_cache": 77,
+    "openalex": 11,
     "verified:2026-06-15(Claude,web; main campus)": 3,
     "verified:2026-06-20(Claude,web)": 2,
     "manual:wikipedia-coords 2026-06-19": 1,
