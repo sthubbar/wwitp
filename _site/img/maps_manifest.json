@@ -118,8 +118,8 @@
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 36,
-      "drawn_count": 36,
+      "stated_count": 34,
+      "drawn_count": 34,
       "match": true,
       "names": [
         "Daniel A. Goldston",
@@ -130,7 +130,6 @@
         "Kevin Ford",
         "Runbo Li",
         "Peter D. T. A. Elliott",
-        "Vivian Kuperberg",
         "Harold G. Diamond",
         "John B. Friedlander",
         "Carl Pomerance",
@@ -142,7 +141,6 @@
         "Adolf Hildebrand",
         "Cameron L. Stewart",
         "Enrico Bombieri",
-        "Sun-Kai Leung",
         "Xuancheng Shao",
         "Jean-Marie De Koninck",
         "Roger C. Baker",
@@ -163,8 +161,8 @@
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 38,
-      "drawn_count": 38,
+      "stated_count": 39,
+      "drawn_count": 39,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -175,13 +173,13 @@
         "D. R. Heath-Brown",
         "Alessandro Zaccagnini",
         "Gérald Tenenbaum",
+        "Vivian Kuperberg",
         "Giovanni Coppola",
         "Etienne Fouvry",
         "Glyn Harman",
         "Marek Wolf",
         "Alexander P. Mangerel",
         "Sergey Konyagin",
-        "Yoichi Motohashi",
         "Dieter Wolke",
         "Jori Merikoski",
         "András Sárközy",
@@ -194,6 +192,7 @@
         "Joël Rivat",
         "George Greaves",
         "Cem Yalçın Yıldırım",
+        "Sun-Kai Leung",
         "Helmut Maier",
         "Olivier Ramaré",
         "J. P. Keating",
@@ -210,14 +209,15 @@
     },
     {
       "file": "13_top100_asia.png",
-      "stated_count": 17,
-      "drawn_count": 17,
+      "stated_count": 18,
+      "drawn_count": 18,
       "match": true,
       "names": [
         "Igor E. Shparlinski",
         "Stephan Baier",
         "Yingchun Cai",
         "D. Suryanarayana",
+        "Yoichi Motohashi",
         "Jiseong Kim",
         "Jinjiang Li",
         "Matt Visser",
@@ -250,11 +250,12 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 76,
-    "openalex": 14,
+    "legacy_gb_cache": 77,
+    "openalex": 12,
     "verified:2026-06-15(Claude,web; main campus)": 3,
     "verified:2026-06-20(Claude,web)": 1,
     "manual:wikipedia-coords 2026-06-19": 1,
+    "verified:web (Claude,2026-07-11)": 1,
     "https://openalex.org/I12323705:mgpschool2026-07-04": 1
   }
 }
