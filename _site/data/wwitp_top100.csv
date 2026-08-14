@@ -27,7 +27,7 @@ rank,name,name_ascii,institution,country,arxiv_rank,openalex_rank,zbmath_rank,ar
 26,Yoichi Motohashi,Yoichi Motohashi,Nihon University,JP,78,,15,4,7,90,,19,openalex,2005,2025,,,,
 27,Dieter Wolke,Dieter Wolke,University of Freiburg,DE,,,28,,1,0,,,,1989,1989,,,,
 28,Carl Pomerance,Carl Pomerance,Dartmouth College,US,75,138,8,5,10,156,,39,openalex,1996,2009,,,,
-29,Jie Wu,Jie Wu,Centre National de la Recherche Scientifique,FR,47,85,24,7,12,123,,,,1990,2008,,,,
+29,Jie Wu,Jie Wu,Université Paris-Est Créteil Val-de-Marne,FR,47,85,24,7,12,123,,19,openalex,1990,2008,,,,
 30,Brad Rodgers,Brad Rodgers,Queen's University,CA,20,108,,7,8,51,,8,openalex,2020,2022,,,,
 31,Yu-Chen Sun,Yu-Chen Sun,University of Turku,FI,21,,,5,,,,,,2018,2022,,,,
 32,Olivier Ramaré,Olivier Ramare,Aix-Marseille Université,FR,,,31,,5,70,,15,openalex,2009,2022,,,,
