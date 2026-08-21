@@ -1,32 +1,30 @@
 {
   "site": "twin_primes",
   "n_top": 100,
-  "n_placed": 91,
-  "n_unplaced_no_geocode": 9,
+  "n_placed": 92,
+  "n_unplaced_no_geocode": 8,
   "n_unplaced_no_institution": 0,
   "unplaced": [
-    "#40 Tsz Ho Chan [Case Western Reserve University]",
-    "#50 Fred B. Holt [Independent]",
-    "#51 Adrian Dudek [University of Queensland]",
-    "#53 Felix Sidokhine [Independent]",
-    "#65 Douglas Azevedo [Universidade Tecnologica Federal do Parana]",
-    "#75 Thomas Wright [Wofford College]",
-    "#84 Aled Walker [Kings College London]",
-    "#90 Victor Volfson [-]",
-    "#98 Benoit Cloitre [Independent]"
+    "#38 Tsz Ho Chan [Case Western Reserve University]",
+    "#48 Fred B. Holt [Independent]",
+    "#49 Adrian Dudek [University of Queensland]",
+    "#62 Douglas Azevedo [Universidade Tecnologica Federal do Parana]",
+    "#72 Thomas Wright [Wofford College]",
+    "#81 Aled Walker [Kings College London]",
+    "#94 Benoit Cloitre [Independent]",
+    "#97 Terry Pilling [University of Mary]"
   ],
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 91,
-      "drawn_count": 91,
+      "stated_count": 92,
+      "drawn_count": 92,
       "match": true,
       "names": [
         "Janos Pintz",
         "Kaisa Matomäki",
         "Daniel A. Goldston",
         "Terence Tao",
-        "Florian Luca",
         "Henryk Iwaniec",
         "Joni Teräväinen",
         "K. Soundararajan",
@@ -48,7 +46,6 @@
         "M. Ram Murty",
         "Giovanni Coppola",
         "Yoichi Motohashi",
-        "Dieter Wolke",
         "Carl Pomerance",
         "Jie Wu",
         "Brad Rodgers",
@@ -112,14 +109,17 @@
         "Ayyadurai Sankaranarayanan",
         "Alexandru Zaharescu",
         "Ben Green",
-        "P. F. Kelly"
+        "P. F. Kelly",
+        "Dimitris Koukoulopoulos",
+        "Trevor D. Wooley",
+        "Hiroshi Mikawa"
       ],
-      "unplaced_no_geocode_in_region": 9
+      "unplaced_no_geocode_in_region": 8
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 38,
-      "drawn_count": 38,
+      "stated_count": 40,
+      "drawn_count": 40,
       "match": true,
       "names": [
         "Daniel A. Goldston",
@@ -159,14 +159,16 @@
         "Emily Quesada-Herrera",
         "Alex Kontorovich",
         "Alexandru Zaharescu",
-        "P. F. Kelly"
+        "P. F. Kelly",
+        "Dimitris Koukoulopoulos",
+        "Trevor D. Wooley"
       ],
       "unplaced_no_geocode_in_region": 4
     },
     {
       "file": "12_top100_europe.png",
-      "stated_count": 39,
-      "drawn_count": 39,
+      "stated_count": 38,
+      "drawn_count": 38,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -180,7 +182,6 @@
         "Alessandro Zaccagnini",
         "Vivian Kuperberg",
         "Giovanni Coppola",
-        "Dieter Wolke",
         "Jie Wu",
         "Yu-Chen Sun",
         "Olivier Ramaré",
@@ -209,12 +210,12 @@
         "D. J. Smith",
         "Ben Green"
       ],
-      "unplaced_no_geocode_in_region": 2
+      "unplaced_no_geocode_in_region": 1
     },
     {
       "file": "13_top100_asia.png",
-      "stated_count": 11,
-      "drawn_count": 11,
+      "stated_count": 12,
+      "drawn_count": 12,
       "match": true,
       "names": [
         "Stephan Baier",
@@ -227,17 +228,17 @@
         "Jianya Liu",
         "Timothy S. Trudgian",
         "Minggao Lu",
-        "Ayyadurai Sankaranarayanan"
+        "Ayyadurai Sankaranarayanan",
+        "Hiroshi Mikawa"
       ],
       "unplaced_no_geocode_in_region": 1
     },
     {
       "file": "14_top100_other.png",
-      "stated_count": 3,
-      "drawn_count": 3,
+      "stated_count": 2,
+      "drawn_count": 2,
       "match": true,
       "names": [
-        "Florian Luca",
         "Ofir Gorodetsky",
         "Lior Bary-Soroker"
       ],
@@ -245,9 +246,8 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 76,
+    "legacy_gb_cache": 78,
     "verified:2026-06-15(Claude,web; main campus)": 2,
-    "manual:wikipedia-coords 2026-06-19": 1,
     "https://openalex.org/I197681013:mgpschool2026-07-04": 1,
     "openalex": 8,
     "verified:web (Claude,2026-07-11)": 2,
