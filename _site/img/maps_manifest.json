@@ -1,10 +1,11 @@
 {
   "site": "twin_primes",
   "n_top": 100,
-  "n_placed": 92,
-  "n_unplaced_no_geocode": 8,
+  "n_placed": 91,
+  "n_unplaced_no_geocode": 9,
   "n_unplaced_no_institution": 0,
   "unplaced": [
+    "#11 Runbo Li [The High School Affiliated to Renmin University of China]",
     "#38 Tsz Ho Chan [Case Western Reserve University]",
     "#47 Adrian Dudek [University of Queensland]",
     "#49 Fred B. Holt [Independent]",
@@ -17,8 +18,8 @@
   "maps": [
     {
       "file": "10_top100_overview.png",
-      "stated_count": 92,
-      "drawn_count": 92,
+      "stated_count": 91,
+      "drawn_count": 91,
       "match": true,
       "names": [
         "Janos Pintz",
@@ -31,7 +32,6 @@
         "John B. Friedlander",
         "Alessandro Languasco",
         "Paul Pollack",
-        "Runbo Li",
         "D. R. Heath-Brown",
         "William D. Banks",
         "James Maynard",
@@ -114,12 +114,12 @@
         "Trevor D. Wooley",
         "Hiroshi Mikawa"
       ],
-      "unplaced_no_geocode_in_region": 8
+      "unplaced_no_geocode_in_region": 9
     },
     {
       "file": "11_top100_north_america.png",
-      "stated_count": 40,
-      "drawn_count": 40,
+      "stated_count": 39,
+      "drawn_count": 39,
       "match": true,
       "names": [
         "Daniel A. Goldston",
@@ -128,7 +128,6 @@
         "K. Soundararajan",
         "John B. Friedlander",
         "Paul Pollack",
-        "Runbo Li",
         "William D. Banks",
         "Harold G. Diamond",
         "Kevin Ford",
@@ -231,7 +230,7 @@
         "Ayyadurai Sankaranarayanan",
         "Hiroshi Mikawa"
       ],
-      "unplaced_no_geocode_in_region": 1
+      "unplaced_no_geocode_in_region": 2
     },
     {
       "file": "14_top100_other.png",
@@ -246,7 +245,7 @@
     }
   ],
   "geocode_sources": {
-    "legacy_gb_cache": 78,
+    "legacy_gb_cache": 77,
     "verified:2026-06-15(Claude,web; main campus)": 2,
     "https://openalex.org/I197681013:mgpschool2026-07-04": 1,
     "openalex": 8,
