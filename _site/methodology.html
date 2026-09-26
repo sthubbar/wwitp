@@ -120,8 +120,14 @@
 <tr><td><strong>OpenAlex</strong></td><td>Author-level: paper count, citations, affiliations, country</td><td>Concept tagging is noisy in math; surname-only matching can misidentify.</td></tr>
 <tr><td><strong>zbMATH Open</strong></td><td>Curated math review database using MSC classes 11N05, 11N35, 11N36</td><td>Coverage of older non-Western mathematicians is the best of the three sources.</td></tr>
 <tr><td><strong>Math Genealogy Project</strong></td><td>Advisor-student trees</td><td>Dissertation-era affiliations only; gaps for some non-Western mathematicians.</td></tr>
+<tr><td><strong>Citation influence</strong>, built from OpenAlex and zbMATH</td><td>How many works in the literature on this problem cite a researcher, by reference or by name</td><td>Many works carry no machine-readable reference list.</td></tr>
 </tbody>
 </table>
+
+<h2>The citation-influence source</h2>
+
+<p>The Top 100 combines four ranked sources. arXiv, OpenAlex and zbMATH Open measure research activity, the papers a researcher writes on the topic. The fourth measures influence: the number of works in the literature on the twin prime conjecture that cite a researcher, counting each work once, by a linked reference, by an unlinked reference identified from the author names, or by naming them as the source of a result. Self-citations never count, a citing work counts only if zbMATH reviewed it, someone cited it, or it carries a reference list, and a researcher needs at least 3 citing works. The four ranks enter the same weighted order statistic, 70/20/10 on the best three. The same source is used on the sister Riemann hypothesis, abc conjecture and Goldbach sites.</p>
+<p>For twin primes the literature is every work in zbMATH Open, or in OpenAlex with a Mathematics primary topic, that names twin primes or bounded gaps between primes: 3,059 works in the September 2026 build. The Mathematics restriction matters because twin prime editing is also a genome-editing technique, and coding-theory papers on twin-prime sequences and difference sets are excluded for the same reason. This source is why Yitang Zhang, whose 2013 bounded-gaps theorem set off the modern work, now ranks near the top.</p>
 
 <h2>Pipeline</h2>
 
