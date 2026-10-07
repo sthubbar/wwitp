@@ -3,10 +3,10 @@
   <url><loc>https://wwitp.org/about</loc><lastmod>2026-08-04</lastmod></url>
   <url><loc>https://wwitp.org/corrections</loc><lastmod>2026-08-04</lastmod></url>
   <url><loc>https://wwitp.org/data</loc><lastmod>2026-09-02</lastmod></url>
-  <url><loc>https://wwitp.org/genealogy</loc><lastmod>2026-09-02</lastmod></url>
-  <url><loc>https://wwitp.org/in-memoriam</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://wwitp.org/genealogy</loc><lastmod>2026-10-07</lastmod></url>
+  <url><loc>https://wwitp.org/in-memoriam</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://wwitp.org/</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://wwitp.org/institutions</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://wwitp.org/institutions</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://wwitp.org/location</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/methodology</loc><lastmod>2026-10-01</lastmod></url>
   <url><loc>https://wwitp.org/network</loc><lastmod>2026-10-06</lastmod></url>
@@ -47,6 +47,7 @@
   <url><loc>https://wwitp.org/people/donald-e-knuth</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/people/douglas-azevedo</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/people/doychin-tolev</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://wwitp.org/people/e-m-wright</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://wwitp.org/people/edmund-landau</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/people/emmanuel-kowalski</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/people/enrico-bombieri</loc><lastmod>2026-10-06</lastmod></url>
@@ -124,6 +125,7 @@
   <url><loc>https://wwitp.org/people/philippe-michel</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/people/pierre-dusart</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/people/r-c-vaughan</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://wwitp.org/people/r-sherman-lehman</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://wwitp.org/people/regis-de-la-breteche</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/people/richard-p-brent</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/people/robert-j-lemke-oliver</loc><lastmod>2026-10-06</lastmod></url>
@@ -153,7 +155,7 @@
   <url><loc>https://wwitp.org/people/yu-chen-sun</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/people/yuri-linnik</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://wwitp.org/people/zeev-rudnick</loc><lastmod>2026-10-06</lastmod></url>
-  <url><loc>https://wwitp.org/reading-list</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://wwitp.org/reading-list</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://wwitp.org/regions/asia</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/regions/europe</loc><lastmod>2026-10-06</lastmod></url>
   <url><loc>https://wwitp.org/regions/north-america</loc><lastmod>2026-10-06</lastmod></url>
